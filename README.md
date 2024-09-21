@@ -8,7 +8,7 @@ This project was written in HTML & CSS and JavaScript. he converted length units
 - Practicing a function that converts the input to the chosen unit
 - Practicing object
 ## Watch this image 
-<img src="/Screenshot 2024-09-18 114620.png" alt="#">
+<img src="/img-project.png" alt="#">
 
 ## Known issues 
-If find any bug or u see yourself u can make it better i mean in terms of less code and a better performance I will be happy if u contribute.
+If you find any bug or u see yourself u can make it better i mean in terms of less code and a better performance I will be happy if u contribute.
